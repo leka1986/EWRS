@@ -2,6 +2,12 @@
 
 Forked version from Apple @ Moose. He have reworked the original to work with moose. credit to him. This is my own twist to it and some small fixes due to DCS and how it handles some of the Objects.
 
+* Added Aspect.
+* Added Highspeed / slow. 
+* Added option to have "Unknown" instead of always showing the type. ( showType = off )
+* Custom output message format.
+* Fixed some nil errors
+
 # EWRS
 Early Warning Radar Script for DCS World
 
